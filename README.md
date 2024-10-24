@@ -1,4 +1,4 @@
-# PyNmap - Network Scanning & Vulnerability Detection Tool
+# PyNmap - Network Scanning & Vulnerability Detection Tool 🇫🇷🇬🇧🇺🇸
 
 PyNmap est un outil de scan réseau basé sur Python qui utilise Nmap pour effectuer des scans rapides ou approfondis, détecter des vulnérabilités potentielles, et planifier des scans à intervalles réguliers.
 
