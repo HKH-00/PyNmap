@@ -8,3 +8,16 @@ Deep scan with service and OS detection.
 Automatic local network detection.
 Detection of potential vulnerabilities based on service versions.
 Scheduling of scans at regular intervals.
+
+# Cloner le dépôt
+git clone https://github.com/HKH-00/PyNmap.git
+
+# Accéder au répertoire
+cd PyNmap
+
+# Installer les dépendances
+pip install -r requirements.txt
+
+# Exécuter le script
+python PyNmap.py
+
