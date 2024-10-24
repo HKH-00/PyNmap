@@ -41,7 +41,7 @@ Entrez la plage d'adresses IP à scanner, par exemple 192.168.1.0/24.
 Visualisez les hôtes actifs détectés.
 Développé par HKH-00 2024.
 
-🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
+# 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
 # PyNmap - Network Scanning & Vulnerability Detection Tool
 
 PyNmap is a Python-based network scanning tool that leverages Nmap to perform quick or detailed scans, detect potential vulnerabilities, and schedule scans at regular intervals.
