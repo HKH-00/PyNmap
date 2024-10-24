@@ -40,6 +40,7 @@ Choisissez l'option de scan rapide.
 Entrez la plage d'adresses IP à scanner, par exemple 192.168.1.0/24.
 Visualisez les hôtes actifs détectés.
 Développé par HKH-00 2024.
+Ce projet est sous licence MIT.
 
 # 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬🇧
 # PyNmap - Network Scanning & Vulnerability Detection Tool
@@ -87,6 +88,8 @@ Choose the quick scan option.
 Enter the IP range to scan, for example, 192.168.1.0/24.
 View the detected active hosts.
 Developed by HKH-00 2024.
+This project is licensed under the MIT License.
+
 
 
 
